@@ -2,7 +2,7 @@
 
 export const SITE_CONFIG = {
   // Messaggio visibile all'inizio, prima di aprire il regalo
-  titoloIniziale: "Per il Papà più Bello ❤️",
+  titoloIniziale: "Per il Papà più Ganzo 😎",
   
   // Messaggio visibile scoppiati i coriandoli, dopo aver aperto il regalo
   titoloAperto: "Tanti Auguri Papà! 🎉",
